@@ -84,7 +84,7 @@ Buckingham Canal.html
         <title>My Home Town</title>
 
     </head>
-    <body bgcolor="pink">
+    <body bgcolor="yellow">
         <h1 allign="center">
             <font color="red"> <b> Thiruvottiyur</b></font>
 
@@ -109,7 +109,7 @@ RAJAKADAI.html
         <title>My Home Town</title>
 
     </head>
-    <body bgcolor="pink">
+    <body bgcolor="blue">
         <h1 allign="center">
             <font color="red"> <b> Thiruvottiyur</b></font>
 
@@ -134,7 +134,7 @@ Tamiladu Petroproducts Limited.html
         <title>My Home Town</title>
 
     </head>
-    <body bgcolor="pink">
+    <body bgcolor="green">
         <h1 allign="center">
             <font color="red"> <b> Thiruvottiyur</b></font>
 
@@ -159,7 +159,7 @@ Thiruvottiyur Beach.html
         <title>My Home Town</title>
 
     </head>
-    <body bgcolor="pink">
+    <body bgcolor="violet">
         <h1 allign="center">
             <font color="red"> <b> Thiruvottiyur</b></font>
 
